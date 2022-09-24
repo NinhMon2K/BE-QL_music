@@ -1,0 +1,13 @@
+D:\QLMusic\QLApp.Library\obj\Debug\netcoreapp3.1\QLApp.Library.csproj.AssemblyReference.cache
+D:\QLMusic\QLApp.Library\obj\Debug\netcoreapp3.1\QLApp.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLMusic\QLApp.Library\obj\Debug\netcoreapp3.1\QLApp.Library.AssemblyInfoInputs.cache
+D:\QLMusic\QLApp.Library\obj\Debug\netcoreapp3.1\QLApp.Library.AssemblyInfo.cs
+D:\QLMusic\QLApp.Library\obj\Debug\netcoreapp3.1\QLApp.Library.csproj.CoreCompileInputs.cache
+D:\QLMusic\QLApp.Library\bin\Debug\netcoreapp3.1\QLApp.Library.deps.json
+D:\QLMusic\QLApp.Library\bin\Debug\netcoreapp3.1\QLApp.Library.dll
+D:\QLMusic\QLApp.Library\bin\Debug\netcoreapp3.1\QLApp.Library.pdb
+D:\QLMusic\QLApp.Library\bin\Debug\netcoreapp3.1\QLApp.Core.Entities.dll
+D:\QLMusic\QLApp.Library\bin\Debug\netcoreapp3.1\QLApp.Core.Entities.pdb
+D:\QLMusic\QLApp.Library\obj\Debug\netcoreapp3.1\QLApp.Library.csproj.CopyComplete
+D:\QLMusic\QLApp.Library\obj\Debug\netcoreapp3.1\QLApp.Library.dll
+D:\QLMusic\QLApp.Library\obj\Debug\netcoreapp3.1\QLApp.Library.pdb
